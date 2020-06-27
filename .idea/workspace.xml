@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="" />
+    <list default="true" id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -64,7 +67,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39419404" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -303,18 +306,33 @@
       <workItem from="1534984616524" duration="10583000" />
       <workItem from="1535088881675" duration="3660000" />
       <workItem from="1593194056787" duration="3727000" />
-      <workItem from="1593242477433" duration="685000" />
+      <workItem from="1593242477433" duration="1335000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593196873070">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593196873070" />
+    <state x="809" y="453" key="Github.Dialog.Accounts.Choose" timestamp="1593243588508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="809" y="453" key="Github.Dialog.Accounts.Choose/0.0.1920.1080@0.0.1920.1080" timestamp="1593243588508" />
     <state x="772" y="416" key="Github.ShareDialog" timestamp="1593242635941">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -327,14 +345,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1593194386806" />
-    <state x="461" y="181" key="SettingsEditor" timestamp="1593196858381">
+    <state x="461" y="181" key="SettingsEditor" timestamp="1593243391665">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="181" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593196858381" />
+    <state x="461" y="181" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593243391665" />
     <state x="833" y="426" width="343" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1593194518183">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="833" y="426" width="343" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1593194518183" />
+    <state x="752" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593243564486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1593243564486" />
     <state x="567" y="240" width="786" height="600" key="find.popup" timestamp="1593195651250">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
