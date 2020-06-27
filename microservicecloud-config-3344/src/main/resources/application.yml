@@ -1,0 +1,18 @@
+server: 
+  port: 3344 
+  
+spring:
+  application:
+    name:  microservicecloud-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ZhongFuCheng3y/msc-config.git
+
+# 访问地址一：http://localhost:3344/neo-config/dev
+# 访问地址二：http://localhost:3344/neo-config-dev.properties
+# 我的GitHub仓库地址：https://github.com/ZhongFuCheng3y/msc-config/
+
+
+
