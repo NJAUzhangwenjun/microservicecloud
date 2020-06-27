@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB01@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\e\workeSpace\microservicecloud" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1drrRbCWT7fg18E0PpwuF7846L2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39419404" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\40368\Desktop\me\codes\codes\微服务架构源码\microservicecloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Config_Git_EurekaServerApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClient_3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClient_3355_StartSpringCloudApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config_Git_EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-config-eureka-client-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Config_Git_EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-consumer-dept-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptConsumer80_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumer80_Feign_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-consumer-dept-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptConsumer80_Feign_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumer_DashBoard_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-consumer-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptConsumer_DashBoard_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-provider-dept-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptProvider8001_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001_Config_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-config-dept-client-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptProvider8001_Config_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001_Hystrix_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-provider-dept-hystrix-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptProvider8001_Hystrix_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-provider-dept-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptProvider8002_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-provider-dept-8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptProvider8003_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-eureka-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaServer7001_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-eureka-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaServer7002_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-eureka-7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaServer7003_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul_9527_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-zuul-gateway-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Zuul_9527_StartSpringCloudApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name=".Config_3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-config-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Config_3344_StartSpringCloudApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DeptConsumer80_Feign_App" />
+      <item itemvalue="Spring Boot.DeptProvider8001_Hystrix_App" />
+      <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.DeptConsumer_DashBoard_App" />
+      <item itemvalue="Spring Boot.EurekaServer7001_App" />
+      <item itemvalue="Spring Boot.EurekaServer7002_App" />
+      <item itemvalue="Spring Boot.EurekaServer7003_App" />
+      <item itemvalue="Spring Boot.DeptProvider8001_App" />
+      <item itemvalue="Spring Boot.DeptProvider8002_App" />
+      <item itemvalue="Spring Boot.DeptProvider8003_App" />
+      <item itemvalue="Spring Boot.DeptConsumer80_App" />
+      <item itemvalue="Spring Boot..Config_3344" />
+      <item itemvalue="Spring Boot.DeptProvider8001_Config_App" />
+      <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClient_3355" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="" />
+      <created>1530601152858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530601152858</updated>
+      <workItem from="1530601157141" duration="4995000" />
+      <workItem from="1530607138657" duration="4562000" />
+      <workItem from="1530664853894" duration="11467000" />
+      <workItem from="1530697818056" duration="143000" />
+      <workItem from="1534554066785" duration="7081000" />
+      <workItem from="1534735388928" duration="5573000" />
+      <workItem from="1534747828945" duration="10468000" />
+      <workItem from="1534811838149" duration="90000" />
+      <workItem from="1534816787487" duration="9761000" />
+      <workItem from="1534899482287" duration="10482000" />
+      <workItem from="1534984616524" duration="10583000" />
+      <workItem from="1535088881675" duration="3660000" />
+      <workItem from="1593194056787" duration="3727000" />
+      <workItem from="1593242477433" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593196873070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593196873070" />
+    <state x="772" y="416" key="Github.ShareDialog" timestamp="1593242635941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="772" y="416" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593242635941" />
+    <state x="494" y="244" key="Github.UntrackedFilesDialog" timestamp="1593242671227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="494" y="244" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593242671227" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1593194386806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1593194386806" />
+    <state x="461" y="181" key="SettingsEditor" timestamp="1593196858381">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="181" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593196858381" />
+    <state x="833" y="426" width="343" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1593194518183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="833" y="426" width="343" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1593194518183" />
+    <state x="567" y="240" width="786" height="600" key="find.popup" timestamp="1593195651250">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="567" y="240" width="786" height="600" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593195651250" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1593196643648">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593196643648" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39419404" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservicecloud-config-client-3355</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39419404" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39419404" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

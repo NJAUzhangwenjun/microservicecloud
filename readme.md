@@ -194,4 +194,17 @@ SpringCloud Config 客户端：
 
 
 
+```shell script
+echo "# microservicecloud" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/NJAUzhangwenjun/microservicecloud.git
+git push -u origin master
 
+```
+
+```shell script
+git remote add origin https://github.com/NJAUzhangwenjun/microservicecloud.git
+git push -u origin master
+```
